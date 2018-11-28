@@ -59,7 +59,7 @@ radar_visualization({
                             //  0 = not moved (circle)
                             //  1 = moved in  (triangle pointing up)
     },
-    ...
+    // ...
   ]
 });
 ```
